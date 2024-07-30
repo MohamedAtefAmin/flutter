@@ -1,7 +1,8 @@
 # level_one
 
-A new Flutter project.
-this project about Ui/UX design for login and singup
+A new Flutter project,
+This project consists of designing three pages, 
+one for welcome, one for login, and one for Singup
 
 ## Getting Started
 
